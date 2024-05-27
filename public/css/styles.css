@@ -1,0 +1,46 @@
+
+body {
+  background-color: #414C5A;
+  color: white;
+}
+
+.card {
+  background-color: #bcbec2;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+.code-editor {
+  margin-top: 10px;
+}
+.code-area {
+  width: 100%;
+  height: 400px;
+  font-family: monospace;
+  margin-bottom: 10px;
+}
+
+select,
+input {
+  background-color: rgb(255, 255, 255) !important;
+  color: black !important;
+}
+
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.7em;
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: orange;
+}
+
+
