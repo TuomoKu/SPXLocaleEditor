@@ -9,7 +9,7 @@ const router = express.Router();
 // IMPORTANT:
 // Set the path to your the locales folder:
 
-const jsonsPath = path.join(__dirname, "../../../../GC/locales/");
+const jsonsPath = path.join(__dirname, "../../../locales/");
 
 // ------------------------------------------------------
 
